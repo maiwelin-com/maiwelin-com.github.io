@@ -1,2 +1,2 @@
-* https://maiwelin.com
-* https://maiwelin.eu
+* New: https://maiwelin.com
+* Old: http://maiwelin.eu
