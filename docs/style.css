@@ -64,8 +64,9 @@ body {
 }
 
 .content {
-  max-width: 50em;
+  max-width: 54em;
   margin: 2rem auto;
+  padding: 0 2rem;
 }
 
 .wip {
