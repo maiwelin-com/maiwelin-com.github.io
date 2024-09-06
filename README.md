@@ -1,2 +1,2 @@
-# maiwelin-com.github.io
-maiwelin.com
+* https://maiwelin.com
+* https://maiwelin.eu
